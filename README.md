@@ -27,6 +27,7 @@
 - All tests should run successfully either from IDE or command line.
 - Instructions to build and run the code and tests submitted must be provided.
 - The app login dummy email is johndoe@email.com and the password is 123.
+- A small video of one of the scenarios running end to end can be added/requested (optional)
   
 ### 🎯 Scenario-Based Challenge
 
