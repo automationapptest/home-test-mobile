@@ -44,7 +44,7 @@ You are required to automate the following core business requirements. The archi
 
 #### Scenario 3 - Catalog Exploration (Native Interaction)
 * **Goal:** Verify feed browsing and content consistency.
-* **Business Requirement:** From the main Art Gallery feed, navigate down the scrollable list of items to locate a specific art piece situated deep in the catalog (e.g., "The Starry Night"). Select the item or verify its presence and details on the screen.
+* **Business Requirement:** From the main Art Gallery feed, navigate down the scrollable list of items to locate a specific art piece situated deep in the catalog (e.g., "Twilight Glow"). Select the item or verify its presence and details on the screen.
 
 ---
 
