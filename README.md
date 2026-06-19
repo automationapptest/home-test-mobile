@@ -57,7 +57,6 @@ If you wish to showcase advanced framework capabilities or mobile engineering ex
 
 
 
-<img width="628" height="1316" alt="image" src="https://github.com/user-attachments/assets/65f972c7-4914-4d7b-b276-b3cf682e9da0" />
+<img width="209" height="438" alt="image" src="https://github.com/user-attachments/assets/65f972c7-4914-4d7b-b276-b3cf682e9da0" />
+<img width="220" height="465" alt="image" src="https://github.com/user-attachments/assets/63388620-fdbf-4bb5-9908-ce7355f69dd4" />      
 
-      
-     
